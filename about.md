@@ -1,5 +1,6 @@
 ---
 title: About this website
+feature_image: "/assets/banner/akshay-chauhan-rVUWNOWCKnE-unsplash.jpg"
 ---
 
 ## Information about EDUC 547 Anthropoly and Education

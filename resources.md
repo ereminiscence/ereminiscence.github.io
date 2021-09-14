@@ -2,7 +2,7 @@
 title: Resources
 feature_text: |
   List of resources
-feature_image: "https://picsum.photos/id/275/4288/2848"
+feature_image: "https://picsum.photos/id/1073/5472/3648"
 excerpt: "A demo of Markdown and HTML includes"
 ---
 
@@ -11,6 +11,8 @@ excerpt: "A demo of Markdown and HTML includes"
 {% include video.html id="Tiy_ViFcTNw" title="Stokely Carmichael at the University of Georgia, Part I (February 1, 1979)" %}
 
 {% include video.html id="2S_YgCJ9IHQ" title="Stokely Carmichael at the University of Georgia, Part II (February 1, 1979)" %}
+
+{% include video.html id="LSfQU8Jozj0" title="Abolitionist Educator: Abolitionist Universities: Organizing in and against Education 11/12" %}
 
 ## Articles/Essays
 
