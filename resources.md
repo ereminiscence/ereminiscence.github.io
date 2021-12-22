@@ -6,6 +6,13 @@ feature_image: "https://picsum.photos/id/1073/5472/3648"
 excerpt: "A demo of Markdown and HTML includes"
 ---
 
+## Abolition University
+
+[Abolition University--studying within/against/beyond the university](https://abolition.university/)
+> More practically, to think the university through an abolitionist mode entails approaching our study of and relationship to such institutions through a combination of social critique and a willingness to struggle to think and build the impossible. We have chosen this name, a name that positions the university as the object of abolition, in an effort to short-circuit the university’s claims of a priori goodness, as a way of making the university newly available for thinking. For us, an abolitionist approach is one which confronts the foundational epistemological and material violences of the U.S. state, liberalism, and capitalism.
+
+Conference: Whose Crisis? Whose University? [Video](https://fb.watch/9XQlhu8qid/)
+
 ## Videos:
 
 {% include video.html id="Tiy_ViFcTNw" title="Stokely Carmichael at the University of Georgia, Part I (February 1, 1979)" %}
@@ -32,11 +39,13 @@ excerpt: "A demo of Markdown and HTML includes"
 
 * Lave, Jean. 2011. Apprenticeship in Critical Ethnographic Practice. Chicago: University of Chicago Press.
 
-## People's websites
+* Ruuska, T. (2019). Reproduction revisited: Capitalism, higher education and ecological crisis. [Free PDF](http://mayflybooks.org/wp-content/uploads/2018/11/Ruuska_REPRODUCTION-REVISITED_-B-Format-Paperback_COVER_FINAL_ebook_pdf-1.pdf)
+
+## Annuary
 
 Eli Meyerhoff: [http://elimeyerhoff.com/](http://elimeyerhoff.com/)
 
-## Other resources
+## Essays that romanticize education
 
 * Smith, M. K. (2015). What is education? A definition and discussion. The encyclopaedia of informal education. http://infed.org/mobi/what-is-education-a-definition-and-discussion/
 * hooks, bell. 1994. Introduction: Teaching to Transgress. In Teaching to Transgress: Education as the Practice of Freedom. New York: Routledge. (pp. 1-12) http://sites.utexas.edu/lsjcs/files/2018/02/Teaching-to-Transcend.pdf
